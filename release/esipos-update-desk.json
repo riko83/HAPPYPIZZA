@@ -5,7 +5,7 @@
     "pub_date":  "2026-04-13T12:17:56Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "url":  "https://github.com/riko83/HAPPYPIZZA/releases/download/v1.0.2/ESIPOS_1.0.12_x64_en-US.msi",
+                                             "url":  "https://github.com/riko83/HAPPYPIZZA/releases/download/v2/ESIPOS_1.0.12_x64_en-US.msi",
                                              "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSc1g0MkRjWnFQZU5PTXRNbnJhVVNMMTBxYnRtdThVQTB2Z1FlVzBHazZ6MDVaZ1ljY2pmd2N1dmhHeDVPbkFFT21aRkpwNWNVamdwRXJ0UGNxZWxpcjlheXIvQ01sTXdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MDgyNjc1CWZpbGU6RVNJUE9TXzEuMC4xMl94NjRfZW4tVVMubXNpCnp1U2lxOCtJeTQ0Rmsydm1HZ0NDc3BjOUQ3Ly9raWFGdEM5a0Jwajc0ZWs1Z25EZmNTMmRVYVdXK3pFWVZqQUk1L0VRS2ROWXhrcHVWc3l6VE8vK0N3PT0K"
                                          }
                   }
