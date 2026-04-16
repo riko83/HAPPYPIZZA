@@ -1,11 +1,11 @@
 {
-    "version":  "1.0.16",
-    "notes":  "- Perditesim i ri",
-    "pub_date":  "2026-04-16T16:10:44Z",
+    "version":  "1.0.18",
+    "notes":  "- Regullim koment Red dhe Tavolina ne KDS",
+    "pub_date":  "2026-04-16T18:32:15Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "url":  "https://github.com/riko83/HAPPYPIZZA/releases/download/v2/ESIPOS_1.0.16_x64_en-US.msi",
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSc1g0MkRjWnFQZVArM0o0UW02TFoyeWRQaUlrMG5INjNzc1dtSG1hZ0tVdGdrR0V4aVpxajZOdlJnVEhwMFBCMHNadXNMMjBob3U5V0lvanhtcXhQSXFiaktaNjBwamcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MzU1ODQzCWZpbGU6RVNJUE9TXzEuMC4xNl94NjRfZW4tVVMubXNpCnpMWW9IZU9oRitRUHZKYmVvdFplbnZrQUZaRU9abWc1QzhXN21GZHRoYWJvOWRwQ2dqb3JBeWZ5ZDk5OXFxN0JmK25PdmFLMFBsUzNFZ3hvVlgyQ0RRPT0K"
+                                             "url":  "https://github.com/riko83/HAPPYPIZZA/releases/download/v2/ESIPOS_1.0.18_x64_en-US.msi",
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSc1g0MkRjWnFQZU0wQXRMaHY1R3IvR09IcXd6WCsxSG9aT0wvKzAxV0x0TlFzK1NPb3dPZ0piN1FvUVhtcHlyeG5WYytYU1d4WGJHYmp1YjdoMVZGUFRjL000WEp4T3dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MzY0MzM0CWZpbGU6RVNJUE9TXzEuMC4xOF94NjRfZW4tVVMubXNpCjFJWmgrcFFiMlQzV0pGVFEzL3ozeDc1Rm94bm1HbUsxc0VYQy9telpDYVN3WUZjQnQvOE9PbjhEOTFCNWNzRzVTT1crUlQzSmkwSkhIZVlOc285aUFRPT0K"
                                          }
                   }
 }
