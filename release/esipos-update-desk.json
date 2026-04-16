@@ -1,11 +1,11 @@
 {
-    "version":  "1.0.15",
+    "version":  "1.0.16",
     "notes":  "- Perditesim i ri",
-    "pub_date":  "2026-04-16T06:35:15Z",
+    "pub_date":  "2026-04-16T16:10:44Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "url":  "https://github.com/riko83/HAPPYPIZZA/releases/download/v2/ESIPOS_1.0.15_x64_en-US.msi",
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSc1g0MkRjWnFQZURseTRJbnNzK3FCZ1lDWHZkcTh3VmhzdENyUGkvQUdIRnJaVDVYN0ZwWkl0N0cvVldjeXgxMjFyRmRsRnVlRTlZNkhTK1IzMUFRMVdRdGljamJQVFE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MzIxMzE0CWZpbGU6RVNJUE9TXzEuMC4xNV94NjRfZW4tVVMubXNpCjNWU29HbEo4dFF4MURSWFJoMUE5aDRGVXZNblppL3BiRzcraXJteTExUHNwMllUcmxuY1A2SDl5TVdHOWJGWElBcng0WWVQRStiWlhNb0hYZHZYSUR3PT0K"
+                                             "url":  "https://github.com/riko83/HAPPYPIZZA/releases/download/v2/ESIPOS_1.0.16_x64_en-US.msi",
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSc1g0MkRjWnFQZVArM0o0UW02TFoyeWRQaUlrMG5INjNzc1dtSG1hZ0tVdGdrR0V4aVpxajZOdlJnVEhwMFBCMHNadXNMMjBob3U5V0lvanhtcXhQSXFiaktaNjBwamcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MzU1ODQzCWZpbGU6RVNJUE9TXzEuMC4xNl94NjRfZW4tVVMubXNpCnpMWW9IZU9oRitRUHZKYmVvdFplbnZrQUZaRU9abWc1QzhXN21GZHRoYWJvOWRwQ2dqb3JBeWZ5ZDk5OXFxN0JmK25PdmFLMFBsUzNFZ3hvVlgyQ0RRPT0K"
                                          }
                   }
 }
