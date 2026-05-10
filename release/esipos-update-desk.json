@@ -1,11 +1,11 @@
 {
-    "version":  "1.0.30",
-    "notes":  "- Rregullim bug kur porosia ka posnume 9",
-    "pub_date":  "2026-04-27T23:01:50Z",
+    "version":  "1.0.31",
+    "notes":  "- Perditesim i ri",
+    "pub_date":  "2026-05-10T13:31:26Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "url":  "https://github.com/riko83/HAPPYPIZZA/releases/download/v2/ESIPOS_1.0.30_x64_en-US.msi",
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSc1g0MkRjWnFQZUZlZSsrejBTQXBxdktwZEtoSHhWMHhTQit5YitUa1ZqaGhYcXl3MG8vMkhjQWRwMGpQb0s1Y0pjVDh1QnJDUmVwTnBkWVpXMktOQlg1NWRnR3hRS3drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3MzMwOTA4CWZpbGU6RVNJUE9TXzEuMC4zMF94NjRfZW4tVVMubXNpCnBOYmp1dWUwdzVkZW1MeE9sdUtKOFFHY3VoNVluQVYwWEJsN3prWUNlZU5XbHN4WmpjSndaN0tUbzdCS0MxN0xOeTUvNHgzYUNGTXFtbGJ2QlYzQURRPT0K"
+                                             "url":  "https://github.com/riko83/HAPPYPIZZA/releases/download/v2/ESIPOS_1.0.31_x64_en-US.msi",
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSc1g0MkRjWnFQZU0yMkt5Sjd2dmpwRXVzME1DLzhOcVdzbnpUTzNreExXdnMrNnZYa1V2V01HbVNwMUpoMWpjK0d3L0VvLzFROC8wWHQrUG44dzltemJLaVBnNFFtNVFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4NDE5ODg1CWZpbGU6RVNJUE9TXzEuMC4zMV94NjRfZW4tVVMubXNpCmhGYTdCdE5BNUZZeXVrVitxclhnM0RMQkdYWFlnV2NsREdnd1VFS0VkaldNMW1sb2dma05GSVkvSXhhVC9HSHQ0T0pJSzNrbC9jeCtuWW10RldSbUNnPT0K"
                                          }
                   }
 }
