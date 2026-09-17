@@ -1,11 +1,11 @@
 {
-    "version":  "1.0.43",
-    "notes":  "- Perditesim i ri Financa",
-    "pub_date":  "2026-07-22T23:00:09Z",
+    "version":  "1.0.45",
+    "notes":  "- Perditesim i ri",
+    "pub_date":  "2026-09-17T11:19:41Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "url":  "https://github.com/riko83/HAPPYPIZZA/releases/download/v2/ESIPOS_1.0.43_x64_en-US.msi",
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSc1g0MkRjWnFQZUNHcXVQdEJmMkVnNU5yT3AyTGJnTzgwL0hVOHVhMjUyai83MElzZk9DU0h1OTlvaDhHbXV4STRmSDhERkU3MWptc2JtaDBrekUwWi9xdzJUODlaMUFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NzYxMjA1CWZpbGU6RVNJUE9TXzEuMC40M194NjRfZW4tVVMubXNpCjdMdTJzNUl6MERJTlpwczlTZ2p6ZG9QK2UwWXAzTFAzcDVPRk9aVnZLTTVoNkEzcHlEVXI3aTNTRklXNWFib2JCSCtPQ2xxR2hEd2ZIUldxZk9na0R3PT0K"
+                                             "url":  "https://github.com/riko83/HAPPYPIZZA/releases/download/v2/ESIPOS_1.0.45_x64_en-US.msi",
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSc1g0MkRjWnFQZU5ZM2RoQW12d0RlY0pXK010SVFFVXlkcE5SUzRCM2txVVRWMnVzRm1ZNTNMOHJwMXp0NUNNQU5GZ0tMSkZMVHlLV1pHWjJqUkFKTlJRMEhvRWpwN1E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NjQzOTc4CWZpbGU6RVNJUE9TXzEuMC40NV94NjRfZW4tVVMubXNpClgzK3pNdVF2Z1Njd2VCdm9DTm1uWEhZMnliZG5oZjc4Zjg1eHBCVUtQK3d0cXFyWjhCbjNUK0lYYktwLzZGSysrRG5tMENxUWt1TDJ1VXR3ek05R0F3PT0K"
                                          }
                   }
 }
